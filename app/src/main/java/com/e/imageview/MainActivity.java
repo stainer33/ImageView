@@ -19,6 +19,7 @@ AlertDialog.Builder AlertBox;
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+        //binding
 
         radioBtn1 = findViewById(R.id.radioBtn1);
         radioBtn2=findViewById(R.id.radioBtn2);
